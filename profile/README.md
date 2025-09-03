@@ -12,14 +12,7 @@ We help you create unique identities, strong passwords, and random email aliases
 > 
 > — Leendert de Borst ([@lanedirt](https://github.com/lanedirt)), Creator of AliasVault
 
-## AliasVault public repos
-
-AliasVault is built on security and privacy-first principles:
-
-- Open source  
-- End-to-end encrypted  
-- Zero-knowledge architecture  
-- Fully self-hostable
+## AliasVault repos
 
 **Popular repos:**  
 - [`aliasvault`](https://github.com/aliasvault/aliasvault) — Monorepo containing the server API, web app, browser extensions, and mobile apps.  
