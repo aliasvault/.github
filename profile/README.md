@@ -22,7 +22,7 @@ AliasVault is built on security and privacy-first principles:
 - Fully self-hostable
 
 **Popular repos:**  
-- [`aliasvault`](https://github.com/lanedirt/AliasVault) — Monorepo containing the server API, web app, browser extensions, and mobile apps.  
+- [`aliasvault`](https://github.com/aliasvault/aliasvault) — Monorepo containing the server API, web app, browser extensions, and mobile apps.  
 - [`website`](https://github.com/aliasvault/website) — Source code for aliasvault.net.
 
 Learn more about AliasVault's architecture in the [AliasVault documentation](https://docs.aliasvault.net/architecture).  
