@@ -1,8 +1,4 @@
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bb7e93c0-da8b-4496-a714-5c405670fb1f">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b451adb1-e5fe-433c-8d78-ed099f744465">
-    <img width="400px" alt="Logo" src="https://github.com/user-attachments/assets/b451adb1-e5fe-433c-8d78-ed099f744465">
-  </picture>
+![organization-readme](https://github.com/user-attachments/assets/94964c23-a8c2-4793-9664-f953423c4ccd)
 
 AliasVault is a **privacy-first password and email alias manager**.
 
