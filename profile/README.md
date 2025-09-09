@@ -52,7 +52,7 @@ Your privacy. **Protected.**
 
 ## Support the mission
 
-AliasVault is open-source and community-driven. If you like what we’re building, consider supporting us:
+AliasVault is open-source and community-driven. If you like what we’re building, consider supporting us through [Open Collective](https://opencollective.com/aliasvault) or through:
 
 <a href="https://www.buymeacoffee.com/lanedirt" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;">
