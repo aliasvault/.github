@@ -12,9 +12,9 @@ We help you create unique identities, strong passwords, and random email aliases
 
 **Popular repos:**  
 - [`aliasvault`](https://github.com/aliasvault/aliasvault) — Monorepo containing the server API, web app, browser extensions, and mobile apps.  
-- [`website`](https://github.com/aliasvault/website) — Source code for aliasvault.net.
+- [`website`](https://github.com/aliasvault/website) — Source code for aliasvault.com.
 
-Learn more about AliasVault's architecture in the [AliasVault documentation](https://docs.aliasvault.net/architecture).  
+Learn more about AliasVault's architecture in the [AliasVault documentation](https://docs.aliasvault.com/architecture).  
 
 
 ## Platforms
