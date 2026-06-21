@@ -21,7 +21,7 @@ Learn more about AliasVault's architecture in the [AliasVault documentation](htt
 
 AliasVault is available everywhere:
 
-- [Web app](https://app.aliasvault.net)  
+- [Web app](https://app.aliasvault.com)  
 - Browser extensions: [Chrome](https://chromewebstore.google.com/detail/aliasvault/bmoggiinmnodjphdjnmpcnlleamkfedj) • [Firefox](https://addons.mozilla.org/en-US/firefox/addon/aliasvault/) • [Edge](https://microsoftedge.microsoft.com/addons/detail/aliasvault/kabaanafahnjkfkplbnllebdmppdemfo) • [Safari](https://apps.apple.com/app/id6743163173)  
 - Mobile apps: [iOS](https://apps.apple.com/app/id6745490915) • [Android](https://play.google.com/store/apps/details?id=net.aliasvault.app) • [F-Droid](https://f-droid.org/packages/net.aliasvault.app)  
 
